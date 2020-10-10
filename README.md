@@ -1,9 +1,9 @@
 ## Development of an intuitive UI system for game controlling in QT 5.0 apps
 
-University project I did back in *2013*. 
+*University project I did back in 2013.*
 
 Control of a simple 2D game with two selfmade and cheap capacitive sensors and an arduino board.
-The game is written in C++/QML (Qt5) and works also on the raspberry pi.
+The game is written in C++/QML (Qt5) and got cross-compiled for the Raspberry Pi target.
 
 
 ### Hardware:
@@ -20,7 +20,15 @@ The game is written in C++/QML (Qt5) and works also on the raspberry pi.
     Usage of Fragmentshaders for better effects - (worked on the Raspberry)
 
 
-Video showcasing the setup and game in action:
- https://www.youtube.com/watch?v=mW6zTor10lE
+### Video showcasing the setup and game in action
 
- Qt5 | capazitive sensing | Raspberry Pi
+https://www.youtube.com/watch?v=mW6zTor10lE
+
+
+### Resources 
+Qt5 | capazitive sensing | Raspberry Pi | Arduino
+
+Instructions for building the sensor:
+
+https://makezine.com/projects/a-touchless-3d-tracking-interface/
+
